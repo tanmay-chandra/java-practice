@@ -7,6 +7,6 @@ class typecastingexample{
 
         double x=9.78;
         int y=(int)x;
-        System.out.println("narrowing:"+y);
+        System.out.println("narrowing:"+y); 
     }
 }
