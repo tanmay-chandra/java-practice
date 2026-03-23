@@ -4,7 +4,7 @@ public class breakncontinueexample{
             if(i==3){
                 continue;
             }
-            else(i==5){
+            if(i==5){
                 break;
             }
             System.out.println(i);
