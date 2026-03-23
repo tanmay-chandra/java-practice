@@ -2,7 +2,7 @@
 
 public class decisionexample{
     public static void main(String[]args){
-        int number=10;
+        int number=-number;
         if(number>0){
             System.out.println("no. is positive");
         }
