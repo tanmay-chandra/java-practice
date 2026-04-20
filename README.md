@@ -50,11 +50,38 @@ This repo is a collection of all the programs I write while learning and practic
 
 ## 🚀 How to Run
 
-1. Install Java (JDK)
-2. Compile:
-   javac filename.java
-3. Run:
-   java filename
+If you want the simplest workflow, run Java files directly:
+
+```bash
+java FileName.java
+```
+
+Example:
+
+```bash
+java AbstractMethodDemo.java
+```
+
+This uses Java's source-file mode, so Java will compile and run the file for you.
+
+You can also use the helper script in this repo:
+
+```bash
+./run-java.sh AbstractMethodDemo
+```
+
+or
+
+```bash
+./run-java.sh AbstractMethodDemo.java
+```
+
+If you want the traditional way, this still works too:
+
+```bash
+javac FileName.java
+java FileName
+```
 
 ---
 
