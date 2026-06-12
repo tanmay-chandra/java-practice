@@ -1,17 +1,12 @@
 # Java Practice 💻
-2nd-year CS student practicing Java fundamentals and DSA.
+Learning Java fundamentals.
 
 ## Topics Covered
-- **Basics:** I/O, loops, conditionals
-- **Arrays:** Searching, sorting, reversal
+- **Basics:** I/O, loops, conditionals, operators
+- **Arrays:** Searching, reversal
 - **Strings:** Palindrome, anagram, reversal
 - **OOP:** Classes, constructors, inheritance, overloading
-- **Sorting:** Bubble sort, selection sort
-
-## Run
-```bash
-java FileName.java
-```
+- **Sorting:** Bubble sort, selection sort, insertion sort, merge sort, quick sort
 
 ## Author
 Tanmay Chandra
